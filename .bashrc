@@ -18,12 +18,9 @@ alias rm='rm -i'
 alias pfc='cd /projectnb/pfc-rule/Task-Switching-Analysis/'
 alias braincom='cd /projectnb/braincom/Jadhav-2016-Data-Analysis/; source activate Jadhav-2016-Data-Analysis'
 
+
 # Load tmux - for attaching sessions
 module load tmux/2.0
-
-# For matlab standalone execution
-module load matlab/2015a
-module load mcr/8.5_2015a
 
 # Load anaconda
 module load anaconda3/4.3.0
