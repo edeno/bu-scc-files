@@ -24,6 +24,7 @@ module load tmux/2.0
 
 # Load anaconda
 module load anaconda3
+module load libcurl
 
 # insert the following to your .bashrc file
 # source .bashrc to make the additions effective for current session
