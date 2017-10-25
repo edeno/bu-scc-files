@@ -6,7 +6,7 @@
 if [ -f /etc/bashrc ]; then
 	. /etc/bashrc
 fi
- 
+
 umask 022
 
 # disable coredumps by default
