@@ -23,7 +23,7 @@ alias braincom='cd /projectnb/braincom/Jadhav-2016-Data-Analysis/; source activa
 module load tmux/2.0
 
 # Load anaconda
-module load anaconda3/4.3.0
+module load anaconda3
 
 # insert the following to your .bashrc file
 # source .bashrc to make the additions effective for current session
