@@ -17,7 +17,7 @@ ulimit -c 0
 alias rm='rm -i'
 alias pfc='cd /projectnb/pfc-rule/Task-Switching-Analysis/'
 alias braincom='cd /projectnb/braincom/Jadhav-2016-Data-Analysis/; source activate Jadhav-2016-Data-Analysis'
-alias replay='cd /projectnb/braincom/Categorize-Replay-2017/; source activate Categorize-Replay-2017'
+alias replay='cd /projectnb/braincom/Categorize-Replay-2017/; source activate Categorize_Replay_2017'
 
 
 # Load tmux - for attaching sessions
