@@ -20,12 +20,11 @@ alias braincom='cd /projectnb/braincom/Jadhav-2016-Data-Analysis/; source activa
 alias replay='cd /projectnb/braincom/Categorize-Replay-2017/; source activate Categorize_Replay_2017'
 
 
-# Load tmux - for attaching sessions
+# Load modules
 module load tmux/2.0
-
-# Load anaconda
 module load anaconda3
 module load libcurl
+module load git
 
 # insert the following to your .bashrc file
 # source .bashrc to make the additions effective for current session
